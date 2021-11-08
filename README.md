@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnyekaOnline
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning about analytics in finance and risk
-- 💞️ I’m looking to collaborate on data-related projects on visualisation, business analytics, ML and predictive analytics
+- 🌱 I’m currently learning about analytics in finance and risk management
+- 💞️ I’m looking to collaborate on data-related projects on business analytics, ML and predictive analytics
 - 📫 How to reach me: email at mailujay{at}gmail.com
 
 <!---
