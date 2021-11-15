@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OnyekaOnline
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning about analytics in finance and risk management
+- 👀 I’m interested in business analytics and it's application in finance and risk
+- 🌱 I’m currently working as a risk manager, with past experience in accounting & finance
 - 💞️ I’m looking to collaborate on data-related projects on business analytics, ML and predictive analytics
-- 📫 How to reach me: email at mailujay{at}gmail.com
+- 📫 How to reach me: email at onyeka.okonkwo63{at}gmail.com
 
 <!---
 OnyekaOnline/OnyekaOnline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
